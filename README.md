@@ -14,3 +14,4 @@ Feel free to contact me: Anna_Malinovskaia@epam.com, Telegram: [@anmalinovskaia]
 
 
 ![EPAM](0.png)
+![Ep](10_Things_About_EPAM.pdf)
