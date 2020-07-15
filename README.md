@@ -1,4 +1,4 @@
-# Hi everyone!
+ # Hi everyone!
 
 🖐️ Hi everyone!
 
@@ -11,7 +11,10 @@ Anna here, Im looking for for active and highly motivated people who strive to e
 - DevOps Team Lead
 - DevOps/Cloud Solution Architect
 
-Feel free to contact me: Anna_Malinovskaia@epam.com, Telegram: [@anmalinovskaia](https://t.me/anmalinovskaia), Skype: anmalinovskaja
+Feel free to contact me: 
+- E-mail: Anna_Malinovskaia@epam.com, 
+- Telegram: [@anmalinovskaia](https://t.me/anmalinovskaia)
+- Skype: anmalinovskaja
 
 
 ![EPAM](0.png)
