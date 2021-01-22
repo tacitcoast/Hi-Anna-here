@@ -1,6 +1,4 @@
-# Hi everyone!
-
-🖐️ Hi everyone!
+# 🖐️ Hi everyone!
 
 Anna here, Im looking for for active and highly motivated people who strive to enhance their knowledge and experience as:
 
