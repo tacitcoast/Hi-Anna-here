@@ -1,6 +1,7 @@
 # 🖐️ Hi everyone!
 
 Anna here, I'm a Talent Sourcer, my job is to research different sources and find people with whom we can collaborate. I'm not trying to "hunt" you or sell you anything, we're all human , so let's just get to know each other better. Perhaps our connection will be useful to us in the future :)
+And I'm also learning Python 🙂
 
 Im currently looking for professionals to practice Cloud&DevOps in EPAM.
 EPAM has offices in 14 Russian cities and 30+ countries, and now we are implementing 3000+ projects, so I have something to offer you. We can discuss vacancies in any location or remotely 🚀.
