@@ -13,10 +13,10 @@ EPAM has offices in 14 Russian cities and 30+ countries, and now we are implemen
 - DevOps Team Lead
 - DevOps/Cloud Solution Architect
 
-𝐃𝐞𝐯𝐎𝐩𝐬 (CatOps and DevMops) and 𝐂𝐥𝐨𝐮𝐝𝐎𝐩𝐬 ☁️ (AWS, Azure, GCP), feel free to contact me: Anna_Malinovskaia@epam.com, Telegram: [@anmalinovskaia](https://t.me/anmalinovskaia), Skype: anmalinovskaja
-
 ## Information
 - [10 Things About EPAM](10_Things_About_EPAM.pdf/)
 - [Epam office in St. Petersburg](Epam_SPb.pdf/)
+
+𝐃𝐞𝐯𝐎𝐩𝐬 (CatOps and DevMops) and 𝐂𝐥𝐨𝐮𝐝𝐎𝐩𝐬 ☁️ (AWS, Azure, GCP), feel free to contact me: Anna_Malinovskaia@epam.com, Telegram: [@anmalinovskaia](https://t.me/anmalinovskaia), Skype: anmalinovskaja
 
 ![EPAM](0.png)
