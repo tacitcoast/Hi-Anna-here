@@ -16,6 +16,8 @@ EPAM has offices in 14 Russian cities and 30+ countries, and now we are implemen
 ## Information
 - [10 Things About EPAM](10_Things_About_EPAM.pdf/)
 - [Epam office in St. Petersburg](Epam_SPb.pdf/)
+- [The global Devops team and the technology stack used](DevOps_Team.pdf/)
+
 
 𝐃𝐞𝐯𝐎𝐩𝐬 (CatOps and DevMops) and 𝐂𝐥𝐨𝐮𝐝𝐎𝐩𝐬 ☁️ (AWS, Azure, GCP), feel free to contact me: Anna_Malinovskaia@epam.com, Telegram: [@anmalinovskaia](https://t.me/anmalinovskaia), Skype: anmalinovskaja
 
