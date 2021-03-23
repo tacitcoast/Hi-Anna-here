@@ -9,6 +9,7 @@ EPAM has offices in 14 Russian cities and 30+ countries, and now we are implemen
 - DevOps Engineer (Windows/Unix)
 - Senior Release Engineer (Linux stack)
 - CloudOps (AWS/Azure/GCP)
+- DataOps (Kafka, Hadoop, Elasticsearch, NoSQL, SnowFlake, Databricks, Druid)
 - Infrastructure Automation Architect (Linux + Clouds)
 - DevOps Team Lead
 - DevOps/Cloud Solution Architect
